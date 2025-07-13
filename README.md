@@ -38,7 +38,7 @@ In today's world, ensuring user data's security and privacy while providing a fa
 
 ## License
 
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for more details.
+This project is licensed under the MIT License. See [LICENSE](https://opensource.org/license/MIT) for more details.
 
 ## Contributing
 
